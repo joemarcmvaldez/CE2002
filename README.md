@@ -1,3 +1,3 @@
-# Demo
+# Details
 
 Description
